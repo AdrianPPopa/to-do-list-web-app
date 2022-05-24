@@ -1,0 +1,9 @@
+{
+	"name": "apdatafactory2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7357aef1-40d0-4309-a578-d980fce85090",
+		"tenantId": "50fcc0ff-ef23-48fe-b052-931dc0fd3e63"
+	}
+}
